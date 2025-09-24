@@ -17,7 +17,7 @@ Phần mềm quản lý shop bán giày, được xây dựng bằng C# WinForms
 - File script SQL đi kèm: `QuanLyShopGiay.sql`
 
 ## Cách chạy
-1. Mở project `QuanLyShopBanGiay.sln` bằng Visual Studio 2022.
+1. Mở project `QuanLyShopBanGiay.csproj` bằng Visual Studio 2022.
 2. Nhấn **F5** để chạy.
 3. Menu "Quản lý" → chọn từng mục để mở form CRUD.
 
